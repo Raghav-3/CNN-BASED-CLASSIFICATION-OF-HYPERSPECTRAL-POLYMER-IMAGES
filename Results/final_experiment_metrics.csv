@@ -1,0 +1,4 @@
+Model,Accuracy,MeanRecall,MacroPrecision,MacroF1,WeightedF1
+Baseline,1,1,1,1,1
+Dropout CNN,1,1,1,1,1
+Shallow CNN,1,1,1,1,1

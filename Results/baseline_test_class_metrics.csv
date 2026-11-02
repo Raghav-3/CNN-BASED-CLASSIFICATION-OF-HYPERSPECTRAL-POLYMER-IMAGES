@@ -1,0 +1,5 @@
+Class,ActualCount,PredictedCount,Precision,Recall,F1Score
+HDPE,10,10,1,1,1
+PET,10,10,1,1,1
+PP,5,5,1,1,1
+PS,5,5,1,1,1

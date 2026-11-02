@@ -1,0 +1,13 @@
+# MATLAB temporary and autosave files
+*.asv
+*.m~
+*.slxc
+*.autosave
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+.Spotlight-V100
+.Trashes

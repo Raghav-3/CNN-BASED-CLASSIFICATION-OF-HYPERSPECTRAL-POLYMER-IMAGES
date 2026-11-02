@@ -1,0 +1,13 @@
+Model,Class,ActualCount,PredictedCount,Precision,Recall,F1Score
+Baseline,HDPE,10,10,1,1,1
+Baseline,PET,10,10,1,1,1
+Baseline,PP,5,5,1,1,1
+Baseline,PS,5,5,1,1,1
+Dropout CNN,HDPE,10,10,1,1,1
+Dropout CNN,PET,10,10,1,1,1
+Dropout CNN,PP,5,5,1,1,1
+Dropout CNN,PS,5,5,1,1,1
+Shallow CNN,HDPE,10,10,1,1,1
+Shallow CNN,PET,10,10,1,1,1
+Shallow CNN,PP,5,5,1,1,1
+Shallow CNN,PS,5,5,1,1,1
